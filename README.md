@@ -136,7 +136,7 @@ Vision-Bridge
 
 ## Landing Page
 
-> Add screenshot here
+![Landing](screenshots/landing.png)
 
 ```
 screenshots/landing.png
@@ -146,7 +146,7 @@ screenshots/landing.png
 
 ## Login / Register
 
-> Add screenshot here
+![Login](screenshots/login.png)
 
 ```
 screenshots/login.png
@@ -156,7 +156,7 @@ screenshots/login.png
 
 ## Video Meeting
 
-> Add screenshot here
+![Meeting](screenshots/meeting.png)
 
 ```
 screenshots/video.png
@@ -166,7 +166,7 @@ screenshots/video.png
 
 ## Meeting History
 
-> Add screenshot here
+![History](screenshots/history.png)
 
 ```
 screenshots/history.png
