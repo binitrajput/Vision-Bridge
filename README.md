@@ -132,7 +132,6 @@ Vision-Bridge
 
 ---
 
-````markdown
 # 📸 Screenshots
 
 ## 🏠 Landing Page
@@ -156,6 +155,7 @@ Vision-Bridge
 ## 📜 Meeting History
 
 ![History](screenshots/history.png)
+
 ---
 
 # ⚙️ Installation
