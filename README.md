@@ -1,5 +1,9 @@
-# 🎥 Vision Bridge
 
+<p align="center">
+  <img src="screenshots/banner.png" alt="Vision Bridge Banner" width="100%">
+</p>
+
+<h1 align="center">🎥 Vision Bridge</h1>
 <p align="center">
   <b>Real-Time Video Conferencing Platform built using MERN, WebRTC & Socket.io</b>
 </p>
@@ -14,10 +18,15 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 </p>
+## 🎬 Demo
+
+<p align="center">
+  <img src="screenshots/demo.gif" alt="Vision Bridge Demo" width="90%">
+</p>
 
 ---
 
-## 🚀 Live Demo
+<h2 align="center">🚀 Live Demo</h2>
 
 🔗 **Frontend:** https://vision-bridge-frontend.onrender.com/
 
@@ -32,7 +41,14 @@ Vision Bridge is a full-stack real-time video conferencing platform that enables
 The application uses **WebRTC** for peer-to-peer media streaming, **Socket.io** for signaling, and the **MERN stack** for user authentication, meeting management, and persistent storage.
 
 ---
+## 📌 Key Highlights
 
+- 🚀 Built a full-stack MERN application
+- 🎥 Real-time video conferencing using WebRTC
+- ⚡ Low-latency signaling with Socket.io
+- 🔐 JWT Authentication & Bcrypt Password Hashing
+- ☁️ MongoDB Atlas Cloud Database
+- 📱 Responsive Material UI Design
 # ✨ Features
 
 - 🔐 Secure User Authentication
@@ -42,7 +58,8 @@ The application uses **WebRTC** for peer-to-peer media streaming, **Socket.io** 
 - ⚡ WebRTC Peer-to-Peer Streaming
 - 🔄 Socket.io Signaling Server
 - 📜 Meeting History
-- ☁️ MongoDB Atlas Integration
+- ☁️ MongoDB Atlas Integration 
+- 🚀 Deployed on Render
 - 🔒 Password Hashing using Bcrypt
 - 📱 Responsive UI
 
@@ -132,31 +149,6 @@ Vision-Bridge
 
 ---
 
-# 📸 Screenshots
-
-## 🏠 Landing Page
-
-![Landing](screenshots/landing.png)
-
----
-
-## 🔐 Login / Register
-
-![Login](screenshots/login.png)
-
----
-
-## 🎥 Video Meeting
-
-![Meeting](screenshots/meeting.png)
-
----
-
-## 📜 Meeting History
-
-![History](screenshots/history.png)
-
----
 
 # ⚙️ Installation
 
@@ -217,6 +209,31 @@ Backend → http://localhost:8000
 
 ---
 
+# 📸 Screenshots
+
+## 🏠 Landing Page
+
+![Landing](screenshots/landing.png)
+
+---
+
+## 🔐 Login / Register
+
+![Login](screenshots/login.png)
+
+---
+
+## 🎥 Video Meeting
+
+![Meeting](screenshots/meeting.png)
+
+---
+
+## 📜 Meeting History
+
+![History](screenshots/history.png)
+
+---
 # 🔮 Future Improvements
 
 - 📺 Screen Sharing
@@ -231,15 +248,12 @@ Backend → http://localhost:8000
 
 # 📚 What I Learned
 
-- Building scalable MERN applications
-- WebRTC Peer Connections
-- Socket.io Signaling
-- JWT Authentication
-- MongoDB Atlas
-- REST API Development
-- React Context API
-- Real-Time Communication Systems
-- Full-Stack Deployment
+- Developed a scalable MERN architecture
+- Implemented peer-to-peer video communication using WebRTC
+- Built real-time signaling with Socket.io
+- Designed secure JWT-based authentication
+- Integrated MongoDB Atlas for cloud data persistence
+- Deployed a production-ready full-stack application on Render
 
 ---
 
@@ -248,7 +262,7 @@ Backend → http://localhost:8000
 ### Binit Rajput
 
 - GitHub: https://github.com/binitrajput
-- LinkedIn: *(Add your LinkedIn URL)*
+- LinkedIn: https://www.linkedin.com/in/binit-rajput-307a923b9
 
 ---
 
