@@ -132,46 +132,30 @@ Vision-Bridge
 
 ---
 
+````markdown
 # 📸 Screenshots
 
-## Landing Page
+## 🏠 Landing Page
 
 ![Landing](screenshots/landing.png)
 
-```
-screenshots/landing.png
-```
-
 ---
 
-## Login / Register
+## 🔐 Login / Register
 
 ![Login](screenshots/login.png)
 
-```
-screenshots/login.png
-```
-
 ---
 
-## Video Meeting
+## 🎥 Video Meeting
 
 ![Meeting](screenshots/meeting.png)
 
-```
-screenshots/video.png
-```
-
 ---
 
-## Meeting History
+## 📜 Meeting History
 
 ![History](screenshots/history.png)
-
-```
-screenshots/history.png
-```
-
 ---
 
 # ⚙️ Installation
